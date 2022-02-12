@@ -1,6 +1,6 @@
 
 # Fluent Python
-###### > Luciano Ramalho
+> ###### Luciano Ramalho
 
 - Глава 1. Модель данных в языке Python
 - Глава 2. Массив последовательностей
